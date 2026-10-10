@@ -73,4 +73,4 @@ Uninstall it normally from Windows Settings - it leaves nothing behind.
 
 ---
 
-*glossy-crane-352 · Updated 2026-10-09 · Shared under the MIT License*
+*glossy-crane-352 · Updated 2026-10-10 · Shared under the MIT License*
